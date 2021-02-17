@@ -11,6 +11,7 @@
   - FileProcessor.cpp
   - main.cpp
   - Makefile
-* Known errors: none
+* Known errors:
+  - none
 * References used:
   - my submitted code for assignment 1
